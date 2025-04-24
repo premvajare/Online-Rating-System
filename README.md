@@ -16,7 +16,7 @@ A full-stack Rating System web application that allows users to rate items or se
 - Node.js
 - Express.js
 - Sequelize ORM
-- MySQL / PostgreSQL / SQLite
+- MySQL
 
 ### Frontend
 - React
